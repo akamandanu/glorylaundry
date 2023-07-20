@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/glorylaundry/static/css/main.46eefcf2.css",
+    "main.js": "/glorylaundry/static/js/main.29a7d969.js",
+    "static/js/787.157d1fc7.chunk.js": "/glorylaundry/static/js/787.157d1fc7.chunk.js",
+    "static/media/Pelanggan.png": "/glorylaundry/static/media/Pelanggan.bb2ae9e54405e7cd4d59.png",
+    "static/media/TentangGlory.png": "/glorylaundry/static/media/TentangGlory.87075aa27e37913538b3.png",
+    "static/media/satuan.png": "/glorylaundry/static/media/satuan.3fa51afb0cbeaeb102fb.png",
+    "static/media/sprei.png": "/glorylaundry/static/media/sprei.949787508a4e702c0502.png",
+    "static/media/hero.png": "/glorylaundry/static/media/hero.15809fe45d6f1b55ac31.png",
+    "static/media/logo.png": "/glorylaundry/static/media/logo.97b0ebee48d28b8bfbb8.png",
+    "static/media/kiloan.png": "/glorylaundry/static/media/kiloan.086ed1cf27e9953db5d0.png",
+    "static/media/instagram.png": "/glorylaundry/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/checklist.png": "/glorylaundry/static/media/checklist.faee7b147320978db7d3.png",
+    "static/media/twitter.png": "/glorylaundry/static/media/twitter.112d93100806a70e5d28.png",
+    "index.html": "/glorylaundry/index.html",
+    "main.46eefcf2.css.map": "/glorylaundry/static/css/main.46eefcf2.css.map",
+    "main.29a7d969.js.map": "/glorylaundry/static/js/main.29a7d969.js.map",
+    "787.157d1fc7.chunk.js.map": "/glorylaundry/static/js/787.157d1fc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46eefcf2.css",
+    "static/js/main.29a7d969.js"
+  ]
+}
